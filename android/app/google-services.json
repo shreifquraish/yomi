@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39806619922",
+    "project_id": "doto-188df",
+    "storage_bucket": "doto-188df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39806619922:android:6006a7babf2df3d9cc23cb",
+        "android_client_info": {
+          "package_name": "doto.doto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39806619922-jukt19e72hecfh6kjmb2mfad0c9no9no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doto.doto",
+            "certificate_hash": "1a8eff816adfd0a2d3d0f60cb71edff0edd34e26"
+          }
+        },
+        {
+          "client_id": "39806619922-i0v33nurm3kmbampa9gup607lqk687rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLOG_y76cnfjVceEhfxB-lqNfUv2o0mjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39806619922-i0v33nurm3kmbampa9gup607lqk687rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
