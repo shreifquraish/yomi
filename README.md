@@ -272,19 +272,6 @@ apply plugin: 'com.google.gms.google-services'
 | **الملاحظات لا تُحفظ** | تحقق من أن ملف `google-services.json` في المكان الصحيح |
 | **خطأ Flutter pub get** | شغّل `flutter clean` ثم `flutter pub get` مجدداً |
 
----
-
-## 📞 الدعم والتطوير المستقبلي
-
-للإبلاغ عن مشاكل أو اقتراح ميزات جديدة:
-- 📧 [فتح Issue](https://github.com/shreifquraish/yomi/issues)
-- 💬 تواصل مع المطور
-
-### الميزات المخطط إضافتها:
-- 🏷️ تصنيفات وعلامات للملاحظات
-- 🔔 تنبيهات وتذكيرات
-- 🌙 الوضع الليلي
-- 📊 إحصائيات الإنتاجية
 
 ---
 
